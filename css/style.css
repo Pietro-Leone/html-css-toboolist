@@ -3,3 +3,27 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #f6f8f9;
+    height: 100vh;
+}
+header{
+    height: 100px;
+    background-color: white;
+    line-height: 100px;
+}
+img{
+    vertical-align: middle;
+    margin-left: 25px;
+}
+h1{
+    display: inline-block;
+    vertical-align: middle;
+}
+.container{
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+    background-color: white;
+    border-radius: 5px;
+}
